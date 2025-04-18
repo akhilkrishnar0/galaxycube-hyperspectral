@@ -2,6 +2,7 @@
 # Hypersim
 
 **Hypersim** is a Python package designed to simulate and visualize hyperspectral imaging of galaxies. The package allows you to generate synthetic 3D data cubes representing galaxy observations across different wavelengths, and visualize the data in both image slices and spectral form.
+![hc](https://github.com/user-attachments/assets/8d7a7760-50a2-4423-9c60-15b4c7c92ba9)
 
 ## Features
 
