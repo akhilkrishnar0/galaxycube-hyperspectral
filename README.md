@@ -87,8 +87,7 @@ This function extracts and visualizes the spectral flux at a specific pixel in t
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
+Distributed under the MIT License. 
 ```
 
 ---
